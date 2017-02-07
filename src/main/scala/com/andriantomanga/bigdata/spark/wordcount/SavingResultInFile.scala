@@ -7,7 +7,7 @@ import org.apache.spark.SparkContext._
 /**
  * @author andriantomanga
  */
-object Launcher {
+object SavingResultInFile {
   def main(args:Array[String]) = {
     
     // set the configuration 
