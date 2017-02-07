@@ -1,0 +1,6 @@
+Designation			Prix
+Tomatoes			1000
+Oranges				200
+Onions				500
+Garlic				700
+Sugar				1200
