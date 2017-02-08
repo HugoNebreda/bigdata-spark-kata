@@ -9,7 +9,7 @@ object Generator {
     println("start : generation of csv file")
     val names = List("marie", "joseph", "ali", "john")
 
-    val pw = new PrintWriter(new File("csv/data.csv"))
+    val pw = new PrintWriter(new File(/*"csv/data.csv"*/"text/subscribers.txt"))
     for (i <- 1 to 10000) {
 
       val name = names(getIdx(0, names.length - 1))
